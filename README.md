@@ -23,4 +23,5 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
   * S
   * DSD
  
-![gIThUB LOGO] (https://anthoncode.com/wp-content/uploads/2019/01/github-octocat-logo-png.png)
+![Github LOGO] (https://anthoncode.com/wp-content/uploads/2019/01/github-octocat-logo-png.png)
+:kissing:
